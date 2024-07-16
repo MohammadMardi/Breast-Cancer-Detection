@@ -4,11 +4,17 @@ Our project focuses on using machine learning classification algorithms to devel
 In this project, our main objective was to detect breast cancer using supervised machine learning algorithms. To achieve this goal, we utilized several well-known and effective algorithms in the field of machine learning. These algorithms include:
 
 Support Vector Machine (SVM)
+
 Logistic Regression
+
 k-Nearest Neighbors (KNN)
+
 Artificial Neural Networks (ANN)
+
 Random Forest
+
 Decision Tree
+
 Naive Bayes
 
 
@@ -22,7 +28,9 @@ Next, the data were split into training and testing sets. The training set was u
 To evaluate the models, we used three main metrics:
 
 Accuracy: The percentage of correct predictions made by the model out of all predictions.
+
 Precision: The percentage of true positive predictions out of all positive predictions made.
+
 Recall: The percentage of true positive predictions out of all actual positive cases.
 
 Results and Comparison
