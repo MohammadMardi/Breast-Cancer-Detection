@@ -29,7 +29,7 @@ To evaluate the models, we used three main metrics:
 
 Accuracy: The percentage of correct predictions made by the model out of all predictions.
 
-![Cancer Detection](Train Accuracy.png)
+![Cancer Detection](https://github.com/MohammadMardi/BreastCancerDetection/blob/main/Test%20Accuracy.png)
 
 ![Cancer Detection](Test Accuracy.png)
 
