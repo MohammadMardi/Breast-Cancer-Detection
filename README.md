@@ -28,6 +28,8 @@ Next, the data were split into training and testing sets. The training set was u
 To evaluate the models, we used three main metrics:
 
 Accuracy: The percentage of correct predictions made by the model out of all predictions.
+![Cancer Detection](Train Accuracy.png)
+![Cancer Detection](Test Accuracy.png)
 
 Precision: The percentage of true positive predictions out of all positive predictions made.
 
