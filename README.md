@@ -29,13 +29,19 @@ To evaluate the models, we used three main metrics:
 
 Accuracy: The percentage of correct predictions made by the model out of all predictions.
 
+![Cancer Detection](https://github.com/MohammadMardi/BreastCancerDetection/blob/main/Train%20Accuracy.png)
+
 ![Cancer Detection](https://github.com/MohammadMardi/BreastCancerDetection/blob/main/Test%20Accuracy.png)
 
-![Cancer Detection](Test Accuracy.png)
 
 Precision: The percentage of true positive predictions out of all positive predictions made.
 
+![Cancer Detection](https://github.com/MohammadMardi/BreastCancerDetection/blob/main/Precision.png)
+
 Recall: The percentage of true positive predictions out of all actual positive cases.
+
+![Cancer Detection](https://github.com/MohammadMardi/BreastCancerDetection/blob/main/Recall.png)
+
 
 Results and Comparison
 Finally, the results of each algorithm were compared based on the mentioned metrics. The purpose of this comparison was to determine the efficiency of each algorithm in detecting breast cancer and to select the best model for use in real-world applications.
