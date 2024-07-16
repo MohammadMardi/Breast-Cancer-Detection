@@ -2,23 +2,22 @@
 
 In this project, our main objective was to detect breast cancer using supervised machine learning algorithms. To achieve this goal, we utilized several well-known and effective algorithms in the field of machine learning. These algorithms include:
 
-Support Vector Machine (SVM)
+1- Support Vector Machine (SVM)
 
-Logistic Regression
+2- Logistic Regression
 
-k-Nearest Neighbors (KNN)
+3- k-Nearest Neighbors (KNN)
 
-Artificial Neural Networks (ANN)
+4- Artificial Neural Networks (ANN)
 
-Random Forest
+5- Random Forest
 
-Decision Tree
+6- Decision Tree
 
-Naive Bayes
+7- Naive Bayes
 
 
 Our dataset is available through the sklearn.datasets in Python.
-
 # 1. Data Preprocessing
 First, we collected and cleaned the data related to patients with breast cancer. These data included various features such as tumor size, tumor shape, and other relevant characteristics. After cleaning, the data were converted into a suitable format for use in machine learning algorithms.
 
