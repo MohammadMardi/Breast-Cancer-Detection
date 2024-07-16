@@ -1,4 +1,4 @@
-# BreastCancerDetection
+# Breast Cancer Detection
 Our project focuses on using machine learning classification algorithms to develop a breast cancer detection system. We gathered a diverse dataset and applied preprocessing techniques, feature selection, and various classification algorithms to train and evaluate our models. Our dataset is available through the sklearn.datasets in Python.
 
 In this project, our main objective was to detect breast cancer using supervised machine learning algorithms. To achieve this goal, we utilized several well-known and effective algorithms in the field of machine learning. These algorithms include:
